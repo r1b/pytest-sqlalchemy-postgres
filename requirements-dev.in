@@ -1,0 +1,4 @@
+black
+psycopg2
+pytest
+sqlalchemy
